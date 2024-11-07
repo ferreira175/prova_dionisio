@@ -1,0 +1,60 @@
+
+
+
+:root{
+    --cor1: #6c0345;
+    --cor2: #dc6b19;
+    --cor3: #f7c566;
+    --cor4: #fff8dc;
+    --cor5: #000000;
+    --cor6: #ffffff;
+}
+
+.bg-nav{
+    background-color: var(--cor1);
+}
+.nav-link{
+    color: var(--cor3);
+}
+.bg-nomes{
+    background-color: var(--cor2);
+}
+.bg-as{
+    background-color: var(--cor4);
+}
+.img-re{
+    border-radius: 15%;
+}
+.bg-seg{
+    color: var(--cor5);
+}
+.bg-re{
+    background-color: var(--cor4);
+}
+.bg-re-b{
+    background-color: var(--cor5);
+    color: var(--cor4);
+}
+.bg-card{
+    background-color: var(--cor1);
+    color: var(--cor6);
+}
+.body-blog{
+    overflow-x: hidden;
+}
+.bg-pes{
+    background-color: var(--cor3);
+}
+footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .social-icons li {
+    margin: 0 5px;
+  }
+  
+  .social-icons a {
+    color: #333;
+    font-size: 24px;
+  }
